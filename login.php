@@ -48,7 +48,7 @@ else {
         }
         
         .card-header {
-            background: linear-gradient(135deg, #09ff84 0%, #12d40b 100%);
+            background: linear-gradient(135deg, #041f113d 0%, #4aa347 100%);
             border-bottom: none;
             padding: 1.5rem;
         }
@@ -80,7 +80,7 @@ else {
         }
         
         .btn-primary {
-            background: linear-gradient(135deg, #2feb39 0%, #8de7ab 100%);
+            background: linear-gradient(135deg, #0b440e 0%, #8de7ab 100%);
             border: none;
             border-radius: 10px;
             padding: 0.75rem;
