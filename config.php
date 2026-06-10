@@ -1,10 +1,10 @@
 <?php
 session_start();
 
-$host = 'localhost';
+$host = 'mysql-tth3.railway.internal';
 $dbname = 'fleet_management';
 $username = 'root';
-$password = '';
+$password = 'CtiAuRnrgONliOmoZtCJgMySnaFNZorC';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
